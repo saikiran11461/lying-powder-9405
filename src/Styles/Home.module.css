@@ -1,0 +1,33 @@
+.main1 {
+    font-family: Barlow, sans-serif;
+  
+    background-image: url(https://assets.website-files.com/5e6c01bb5212506d6c119069/5e8115255836db2cd3bfd6b2_background.jpg);
+}
+
+.main1 Heading {
+    font-size: 68px;
+    font-weight: 500;
+    line-height: 81.6;
+    color: rgb(255, 255, 255);
+}
+.main2{
+    /* border: 2px solid black; */
+}
+.footer{
+  
+   margin: 20px 250px;
+}
+.insidefooter{
+    
+    background-image: url('https://assets.website-files.com/5e6c01bb5212506d6c119069/5e6edcb60f8bc32556bae915_footer-bg.png');
+    height: 400px;
+    width: 100%;
+}
+
+/* Font size: 68px
+
+Font weight: 500
+
+Line height: 81.6px
+
+Font color: rgb(255, 255, 255) */
