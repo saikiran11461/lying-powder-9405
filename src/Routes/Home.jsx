@@ -1,4 +1,4 @@
-import { Box,Center,Heading,Text,Button, Flex,Image, Stack, SimpleGrid, Spacer } from '@chakra-ui/react'
+import { Box,Center,Heading,Text,Button, Flex,Image, SimpleGrid } from '@chakra-ui/react'
 import React from 'react'
 import styles from "../Styles/Home.module.css";
 import {AiOutlineTwitter,AiFillLinkedin } from 'react-icons/ai'; //
@@ -42,7 +42,7 @@ const Home = () => {
              </Box>
              <Box>
               <Image margin="auto" src='https://assets.website-files.com/5e6c01bb5212506d6c119069/5e811cc7dc544573caf55a0b_audit.svg'/>
-              <Text fontFamily="IBM Plex Serif, sans-serif" fontFamily="IBM Plex Sans, sans-serif" fontSize="2xl" padding={5}>Real-time audit</Text>
+              <Text fontFamily="IBM Plex Serif, sans-serif"  fontSize="2xl" padding={5}>Real-time audit</Text>
               <Text fontFamily="IBM Plex Serif, sans-serif" color="gray" textAlign="center">Use Fathom to review the work of your<br/> coding team, editing errors and flagging<br/> problematic coding for review.</Text>
              </Box>
           </SimpleGrid>
@@ -100,7 +100,7 @@ const Home = () => {
              </Box>
              <Box border="2px solid transprent">
               <Image margin="auto" src='https://assets.website-files.com/5e6c01bb5212506d6c119069/5e811b57a7eca1abcc96f85e_speed.svg'/>
-              <Text fontFamily="IBM Plex Serif, sans-serif" fontFamily="IBM Plex Sans, sans-serif" fontSize="2xl" padding={5}>Speed</Text>
+              <Text fontFamily="IBM Plex Serif, sans-serif"  fontSize="2xl" padding={5}>Speed</Text>
               <Text fontFamily="IBM Plex Serif, sans-serif" color="gray" textAlign="center">Cut your coding turnaround by days,<br/>not hours or minutes.</Text>
              </Box>
           </SimpleGrid>
@@ -121,7 +121,7 @@ const Home = () => {
              </Box>
              <Box border="2px solid transprent">
               <Image margin="auto" src='https://assets.website-files.com/5e6c01bb5212506d6c119069/5e81235429502fec7abc4315_security.svg'/>
-              <Text fontFamily="IBM Plex Serif, sans-serif" fontFamily="IBM Plex Sans, sans-serif" fontSize="2xl" padding={5}>Security</Text>
+              <Text fontFamily="IBM Plex Serif, sans-serif"  fontSize="2xl" padding={5}>Security</Text>
               <Text fontFamily="IBM Plex Serif, sans-serif" color="gray" textAlign="center">Keep your PHI secure with industry<br/> leading technology and protocol.</Text>
              </Box>
           </SimpleGrid>
@@ -158,7 +158,7 @@ const Home = () => {
                 <Image objectFit="cover" marginBottom="25px"  width="400px" height="200px" src='https://blog.fathomhealth.com/hubfs/derek-thomson-NqJYQ3m_rVA-unsplash.jpg'/>
                 <Text fontFamily="IBM Plex Serif, sans-serif"  padding="0px 15px"  fontSize='xs'>ARTIFICAL INTELLIGENCE</Text>
                 <Text fontFamily="IBM Plex Serif, sans-serif" padding="0px 15px" fontSize='25px'  fontWeight="500">6 ways that AI can minimize<br/> your revenue cycle</Text>
-                <Text fontFamily="IBM Plex Serif, sans-serif" fontFamily="IBM Plex Sans, sans-serif" padding="0px 15px" paddingBottom="18px" fontSize='21px' color="gray" fontWeight="500">With the advent of artificial intelligence<br/> technology and its application in solving<br/> some of the most complex challenges...</Text>
+                <Text fontFamily="IBM Plex Serif, sans-serif"  padding="0px 15px" paddingBottom="18px" fontSize='21px' color="gray" fontWeight="500">With the advent of artificial intelligence<br/> technology and its application in solving<br/> some of the most complex challenges...</Text>
                </Box>
             </SimpleGrid>
           </Center>
