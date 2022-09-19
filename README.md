@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+<h1>About Project</h1>
+
+AI built for medical coding ·<br/> Coding services tailored to your workflow ·<br/> Fathom powers coding operations across <br/>· Benefits · Cost, speed, and accuracy 
+#Snap Shots
+![Screenshot (346)](https://user-images.githubusercontent.com/70562454/191052964-eb81dbe0-3761-4455-87a9-c26afad780e5.png)
+![Screenshot (347)](https://user-images.githubusercontent.com/70562454/191053048-a652787a-6b61-496f-832f-1755e4e384a9.png)
+![Screenshot (348)](https://user-images.githubusercontent.com/70562454/191053064-9e610d2a-1968-4523-807c-29f3e49f44c7.png)
+![Screenshot (349)](https://user-images.githubusercontent.com/70562454/191053079-ed7178ce-b681-4055-86d3-57629cd90c03.png)
+![Screenshot (350)](https://user-images.githubusercontent.com/70562454/191053090-a8898751-5b8b-4ebd-be05-b5046f19604b.png)
+![Screenshot (351)](https://user-images.githubusercontent.com/70562454/191053101-cfbb6f74-b9cc-4d02-a8db-7cd70e117dc4.png)
+
+# Getting Started with Create React App!
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
