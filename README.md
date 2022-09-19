@@ -1,6 +1,6 @@
 <h1>About Project</h1>
 
-AI built for medical coding ·<br/> Coding services tailored to your workflow ·<br/> Fathom powers coding operations across <br/>· Benefits · Cost, speed, and accuracy 
+AI built for medical coding · Coding services tailored to your workflow ·<br/> Fathom powers coding operations across · Benefits · Cost, speed, and accuracy<br/><br/><br/> 
 #Snap Shots
 ![Screenshot (346)](https://user-images.githubusercontent.com/70562454/191052964-eb81dbe0-3761-4455-87a9-c26afad780e5.png)
 ![Screenshot (347)](https://user-images.githubusercontent.com/70562454/191053048-a652787a-6b61-496f-832f-1755e4e384a9.png)
